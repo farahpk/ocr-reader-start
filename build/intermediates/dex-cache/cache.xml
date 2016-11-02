@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_685d9c5ed75d8a57055485a08920444ce4fb26e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6fb5e6501620266f715a97b093d83bf68c92d5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_9f19e0f31d5d014bf268af180963355e93a98244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_5170c16fccd30a7b370a692a3d790833f2dad7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_e6740fe489c2624832d774954bf6f516d33744c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_daaa85ff69df7558a1060936c538b203122e219e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_eec0404dd433d4e0b9f5d50e5ad36237c00e08bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_fa0579ce680409dea2d628665a73044a31d0e9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_0c098ecb4328c138a28167ed0ec24aed7367a066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_d13f07bb89d1f2033438053cc7a3763fdf9181b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_efeaa5165d4cc580397977aeb6029675f6d7b73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_0afa051d04038eb8ee001cbeda99b305a3acea51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_0276f6ac68ca9bdfcf69ddab84d0f5a35a871f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9e9834d36b0aed35c7ec9b948b84c821ba4cb5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_96921d98a3aa04149f45fd311361c98ce10cb45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_2736d07b416b847f71b756d2aac214916bbf9f51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_ee3249e1310695e2611f58cf8eeb0dac00bd486a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_dd6a49cd8c90e40821dfa6b588b92315ef8a65b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_0085d2f770cb0dde4cdf21a2036948d182df64a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0d961fc16aa77f87c961919d2f7c7b955c22ad96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_c17e0e542015187edb16081076508cfa9ad84cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_727489f2ecc6068a8943d678a64a0a14a4103743.jar" />
+    </item>
+
+</items>
